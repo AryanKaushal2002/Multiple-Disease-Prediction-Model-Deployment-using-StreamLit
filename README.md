@@ -27,7 +27,7 @@ The diseases currently supported by this web app include:
 
 1. Clone the repository:
 <pre>
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/AryanKaushal2002/Multiple-Disease-Prediction-Model-Deployment-using-StreamLit.git
 </pre>
 
 
