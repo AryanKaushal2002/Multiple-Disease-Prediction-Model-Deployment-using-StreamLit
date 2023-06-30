@@ -12,10 +12,10 @@ from streamlit_option_menu import option_menu
 
 # loading the saved models
 
-diabetes_model = pickle.load(open("C:/Users/KIIT/OneDrive/Desktop/Multiple Disease Prediction System/models/diabetes_model.sav",'rb'))
-heart_model = pickle.load(open("C:/Users/KIIT/OneDrive/Desktop/Multiple Disease Prediction System/models/heart_disease_model.sav",'rb'))
-parkinsons_model = pickle.load(open("C:/Users/KIIT/OneDrive/Desktop/Multiple Disease Prediction System/models/parkinsons_model.sav",'rb'))
-breast_model = pickle.load(open("C:/Users/KIIT/OneDrive/Desktop/Multiple Disease Prediction System/models/breast_cancer_model.sav",'rb'))
+diabetes_model = pickle.load(open("./models/diabetes_model.sav",'rb'))
+heart_model = pickle.load(open("./models/heart_disease_model.sav",'rb'))
+parkinsons_model = pickle.load(open("./models/parkinsons_model.sav",'rb'))
+breast_model = pickle.load(open("./models/breast_cancer_model.sav",'rb'))
 
 # sidebar navigation
 with st.sidebar:
