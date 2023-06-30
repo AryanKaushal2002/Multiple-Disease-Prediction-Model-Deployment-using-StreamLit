@@ -4,7 +4,6 @@ Created on Mon Jun 26 17:09:20 2023
 
 @author: KIIT
 """
-# streamlit run "C:\Users\KIIT\OneDrive\Desktop\Multiple Disease Prediction System\multiple disease pred.py"
 import pickle
 import streamlit as st
 from streamlit_option_menu import option_menu 
