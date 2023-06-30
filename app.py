@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Jun 26 17:09:20 2023
+Created on Mon Jun 26 2023
 
-@author: KIIT
+@author: AK
 """
 import pickle
 import streamlit as st
