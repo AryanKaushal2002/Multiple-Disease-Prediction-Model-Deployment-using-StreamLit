@@ -25,7 +25,7 @@ with st.sidebar:
                             'Diabetes Prediction',
                             'Parkinson\'s Prediction',
                             'Breast Cancer Prediction'],
-                           icons=['heart','activity','person','hospital'],
+                           icons=['heart','activity','person','hospital-fill'],
                            default_index=0)
     
 
