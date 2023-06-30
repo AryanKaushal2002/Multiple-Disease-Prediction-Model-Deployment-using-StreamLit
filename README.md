@@ -23,6 +23,10 @@ The diseases currently supported by this web app include:
 - Heart disease
 - Breast cancer
 
+## Web App
+
+- [Access the Web App](https://multiple-disease-prediction-using-ml.streamlit.app/) - Use the web app to predict multiple diseases.
+
 ## Installation
 
 1. Clone the repository:
