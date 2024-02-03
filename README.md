@@ -1,10 +1,11 @@
+
+## Repository Deprecated
+
+This repository has been deprecated. Please check out the new repository at [https://github.com/AryanKaushal2002/MediPredict](https://github.com/AryanKaushal2002/MediPredict) for the latest updates.
+
 # Multiple Disease Prediction Web App
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-
-# Repository Deprecated
-
-This repository has been deprecated. Please check out the new repository at [https://github.com/AryanKaushal2002/MediPredict](https://github.com/AryanKaushal2002/MediPredict) for the latest updates.
 
 
 *A web application for predicting multiple diseases using machine learning models. This project includes prediction models for diabetes, Parkinson's disease, heart disease, and breast cancer.*
